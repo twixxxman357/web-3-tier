@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,terraform,github" />
+  </a>
+</p>
+
+
+
+
+
 # 🏗️ AWS 3‑Tier Architecture (Terraform)
 
 This repository contains Infrastructure‑as‑Code (IaC) for deploying a **highly available, secure, and scalable 3‑tier architecture on AWS using Terraform**.

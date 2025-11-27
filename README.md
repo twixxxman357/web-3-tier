@@ -8,13 +8,6 @@ The design follows AWS best practices with dedicated **Web**, **Application**, a
 
 ## 📸 Architecture Diagram
 
-> **Replace this path with the correct relative path in your repo**
-
-```
-![3‑Tier Architecture](./3TierArch-AWS-Terraform.png)
-```
-
----
 
 ## 🔧 Architecture Overview
 
@@ -96,30 +89,3 @@ tf destroy
 
 ---
 
-## 📌 Notes
-
-* Ensure subnets are properly tagged for load balancers
-* Aurora cluster requires correct username/password variables
-* Add AMI IDs in variables or use data lookups for automation
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! Please open an issue for major changes.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-If you’d like, I can also generate:
-
-* Badges
-* Terraform docs
-* Module documentation
-* A version with GitHub‑friendly emojis and styling
-* A version with relative image links included automatically

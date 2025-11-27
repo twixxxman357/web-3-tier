@@ -65,27 +65,3 @@ The design follows AWS best practices with dedicated **Web**, **Application**, a
 
 ---
 
-## 🚀 Getting Started
-
-### **Prerequisites**
-
-* Terraform >= 1.x
-* AWS CLI configured
-* An AWS account
-
-### **Deploy**
-
-```bash
-tf init
-tf plan
-tf apply -auto-approve
-```
-
-### **Destroy**
-
-```bash
-tf destroy
-```
-
----
-

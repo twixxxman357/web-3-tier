@@ -8,6 +8,8 @@ The design follows AWS best practices with dedicated **Web**, **Application**, a
 
 ## 📸 Architecture Diagram
 
+<img width="1214" height="548" alt="image" src="https://github.com/user-attachments/assets/cd1720c9-9b07-4b0a-b45f-73230d701870" />
+
 
 ## 🔧 Architecture Overview
 
